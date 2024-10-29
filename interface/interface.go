@@ -9,7 +9,7 @@ import (
 	"fyne.io/fyne/v2/dialog"
 	"fyne.io/fyne/v2/widget"
 
-	"github.com/yourusername/password_generator/generator"
+	"github.com/YOUR_NAME/password_generator/generator"
 )
 
 // InitUI はGUIを初期化し、ウィンドウに設定します。

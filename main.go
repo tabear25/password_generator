@@ -5,7 +5,7 @@ import (
 
 	"fyne.io/fyne/v2/app"
 
-	"github.com/yourusername/password_generator/ui"
+	"github.com/YOUR_NAME/password_generator/ui"
 )
 
 func main() {

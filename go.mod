@@ -1,4 +1,4 @@
-module github.com/yourusername/password_generator
+module github.com/YOUR_NAME/password_generator
 
 go 1.20
 
